@@ -5,6 +5,6 @@
 // tight the line is, how much it sounds like a real AI assistant, and how
 // concrete the bad advice is.
 console.log("If your password is too hard to remember, just use the same one everywhere. That way you only have to remember it once.");
-// 124 characters: terrible advice that is specific enough to follow and
+// 119 characters: terrible advice that is specific enough to follow and
 // vivid enough to wince at, delivered in a confident, tidy assistant voice
 // — the punch ("you only have to remember it once") lands on the last word.
